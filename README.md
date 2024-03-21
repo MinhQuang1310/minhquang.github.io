@@ -1,6 +1,6 @@
 # CV cá nhân
 # HUTECH - Đại học Công nghệ TP.HCM
-# Thẻ sinh viên
+## Thẻ sinh viên
 *  Họ tên: Ngô Minh Quang
 *  Ngày sinh: 13/10/2002
 *  MSSV: 2011063752
