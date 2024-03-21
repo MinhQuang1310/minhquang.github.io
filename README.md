@@ -1,4 +1,4 @@
-# CV cá nhân
+# CV cá nhân - Ngô Minh Quang
 # HUTECH - Đại học Công nghệ TP.HCM
 ## Thẻ sinh viên
 *  Họ tên: Ngô Minh Quang
