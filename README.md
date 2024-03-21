@@ -1,4 +1,4 @@
-# <img src="https://source.unsplash.com/Mv9hjnEUHR4/600x800" alt="" style="width: 100; height: 100;">
+# <img src="https://source.unsplash.com/Mv9hjnEUHR4/600x800" alt="" style="width: 125; height: 100;">
 # CV cá nhân - Ngô Minh Quang
 # HUTECH - Đại học Công nghệ TP.HCM
 ## Thẻ sinh viên
